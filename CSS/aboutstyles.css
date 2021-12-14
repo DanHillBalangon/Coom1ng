@@ -1,0 +1,60 @@
+body
+{
+  min-height: 100vh;
+  background-image: url("https://wallpaperaccess.com/full/4789487.jpg")
+}
+h3
+{
+  color: #fff;
+  font-family: "Courier New", Monospace;
+  font-size: 2em;
+  Line-height: 1em;
+  margin-bottom: 10px;
+}
+table
+{
+	position: relative;
+	color: #2C3E63;
+	padding: 10px 20px;
+	border-radius: 10px;
+	background: #0BC0E8;
+	color: #111;
+	margin-top: 10px;
+	display: inline-block;
+	font-family: 'Poppins', sans-serif;
+	text-decoration: none;
+	font-weight:700;
+}
+ul
+{
+	position: relative;
+	color: #2C3E63;
+	padding: 10px 20px;
+	border-radius: 10px;
+	background: #0BC0E8;
+	color: #111;
+	margin-top: 10px;
+	display: inline-block;
+	font-family: 'Poppins', sans-serif;
+	text-decoration: none;
+	font-weight:700;
+}
+h1
+{
+	font-family: 'Poppins', sans-serif;
+	font-weight:700;
+	color: #fff
+}
+label
+{
+	font-family: 'Poppins', sans-serif;
+	font-weight:700;
+	color: #fff
+}
+li 
+{
+	font-family: "Courier New", Monospace;
+	font-weight:700;
+	color: #fff
+}
+
